@@ -31,7 +31,9 @@ DevCard merupakan halaman kartu profil interaktif dengan fitur dark mode dan lik
 
 ## Contribution
 | Peter Nathaniel A | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
-| Warren Christoper H | Styling Engineer & Script Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css`,  Membuat branch `scripting`, menambahkan & menghubungkan `script.js`|
+| Warren Christoper H | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css`  |
+| Theodore Timothy H | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js`|
+
 
 ---
 
